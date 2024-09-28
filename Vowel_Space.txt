@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vowel Space</title>
+	</head>
+	<body>
+		<h1>
+			Prerequisite Phonology
+		</h1>
+		<p>
+			Vowels can pretty much be acoustically identifiable based on the proportions between the  major frequencies, or <b>formants</b> they exhibit. 
+		</p>
+		<p>
+			The lowest frequency represented is called the <b>fundamental frequency</b> and is notated <b>F0</b>; however, it is not itself considered a formant.
+		</p>
+		<p>
+			The formants are then notated <b>Fn</b> in order of increasing frequency.
+		</p>
+		<p>
+			While they are not themselves sufficient to characterize a vowel for the purpose of human language, the first two formants <b>F1</b> and <b>F2</b>
+			are typically considered the most important ones (with further importance decreasing as the pitch increases). 
+			One reason is that they correlate with parameters of articulation: 
+			<b>F1</b> correlates positively with the frontness in the oral cavity where the major point of restriction takes place (or frontness, for short),
+			and <b>F2</b> correlates positively with the height of the tongue where restriction takes place (or height, for short).
+		</p>
+	</body>
+</html>

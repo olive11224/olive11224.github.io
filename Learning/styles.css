@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+}
+
+em {
+	font-style: oblique;
+	font-weight: bold;
+}
+p {
+  font: 23px "Pinyon", sans-serif;
+}

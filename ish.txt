@@ -1,0 +1,51 @@
+Scombroidei- Tuna Suborder
+----------
+Scombridae- Tuna Family
+-----
+Scombrini- Mackerel Tribe
+	Scomber japonicus (Chub Mackerel)- マサバ
+Scomberomorini- Spanish Mackerel Tribe
+	Acanthocybium solandri (Wahoo)- カマスサꜜワラ
+	Scomberomorus niphonius (Japanese Spanish Mackerel)- サワラ
+	Scomberomorus sinensis (Chinese seerfish)- ウシサꜜワラ
+Sardini- Bonito Tribe
+	Sarda orientalis (Striped bonito)- ハガꜜツオ
+Thunnini- Tuna Tribe
+	Euthynnus affinis- スマ
+	Katsuwonus pelamis (Katsuo)- カツオ
+	Thunnus alalunga (Albacore Tuna)- ビンナガ
+	Thunnus albacares (Yellowfin Tuna)- キハダ
+	Thunnus obesus (Bigeye Tuna)- メバチ
+	Thunnus orientalis (Pacific Bluefin Tuna)- クロマꜜグロ
+	Thunnus maccoyii (Southern Bluefin Tuna)- ミナミマꜜグロ
+	Thunnus thynnus (Northern Bluefin Tuna)- タイセイヨウマꜜグロ (?)
+
+Gasterochismatidae- Butterfly Mackerel Family
+-----
+	Gasterochisma melampus (Butterfly Mackerel)- ガストロ (?)
+Sphyraenidae- Barracuda Family
+-----
+	Sphyraena barracuda (Great Barracuda)- オニカꜜマス
+	Sphyraena pinguis (Red Barracuda)- アカカꜜマス (?)
+	Sphyraena putnamae (Sawtooth Barracuda)- オオカꜜマス (?)
+
+Trichuridae- Cutlassfish Family
+-----
+	Trichiurus lepturus (Hairtail)- タチꜜウオ
+
+Xiphiidae- Swordfish Family
+-----
+	Xiphias gladius (Swordfish)- メカꜜジキ
+
+Istiophoridae- Marlin Family
+-----
+	Istiompax indica (Black Marlin)- シロカꜜジキ (?)
+	Istiophorus platypterus (Indo-Pacific Sailfish)- バショウカꜜジキ
+	Makaira nigricans (Atlantic Blue Marlin)- ニシクロカꜜジキ (?)
+	Makaira mazara (Indo-Pacific Blue Marlin)-　クロカꜜジキ
+	Kajikia audax (Striped Marlin) マカꜜジキ
+	
+Stromateoidei- Butterfish Suborder
+----------
+
+	
