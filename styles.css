@@ -1,13 +1,28 @@
+body {
+  background-color: rgb(255,240,200);
+}
 img {
   float: none;
 }
 div {
   text-align: justify;
 }
+h1 {
+	font-family: Helvetica, Arial, sans-serif;
+}
+h2 {
+	font-family: Helvetica, Arial, sans-serif;
+}
+h3 {
+	font-family: Helvetica, Arial, sans-serif;
+}
 p {
+	font-family: "Book Antiqua", "Times New Roman", serif;
+  text-align: justify;
+  hyphens: auto;
   margin-top: -10px;
   margin-bottom: 10px;
-  margin-right: 150px;
+  margin-right: 80px;
   margin-left: 20px;
   line-height: 1.3;
 }
